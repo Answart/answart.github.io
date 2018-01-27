@@ -1,0 +1,30 @@
+theme:            jekyll-theme-prologue
+collections:      [sections]
+plugins:
+  - jekyll-feed
+
+title:            Alexandra Swart
+subtitle:         Software Engineer
+description:      >- # this means to ignore newlines until "baseurl:"
+  My personal website.
+author:           Alexandra Swart
+email:            answart@sbcglobal.net
+avatar:           assets/images/avatar2.jpg
+
+baseurl:          "/answart.github.io"
+url:              "https://answart.github.io"
+
+# Social settings
+facebook_url:
+github_url:       "https://github.com/Answart/"
+googleplus_url:
+instagram_url:
+linkedin_url:     "https://www.linkedin.com/in/alexandra-swart-582a1235/"
+pinterest_url:
+slack_url:
+twitter_url:
+
+# Google Analytics Tracking ID goes here:
+google_analytics:
+timezone:         "America/New_York"
+markdown:         kramdown
