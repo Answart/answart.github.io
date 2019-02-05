@@ -1,7 +1,9 @@
 language: ruby
 rvm:
- - 2.2
- - jruby
+  - '2.6'
+  - jruby
+script:
+  - bundle exec jekyll build
 deploy:
   provider: pages
   skip-cleanup: true

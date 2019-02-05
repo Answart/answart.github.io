@@ -13,7 +13,7 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/Answart/answart.github.io/badge.svg)][snyk]
 [![MIT](https://img.shields.io/github/license/Answart/answart.github.io.svg)][MIT]
 
-**Ruby/Github** Pages portfolio website with **Jekyll** integration.
+**Ruby**/**Github Pages** portfolio website with **Jekyll** integration.
 
 Tech Stack and Key Packages
 ---------------------------
