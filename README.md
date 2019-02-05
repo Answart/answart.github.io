@@ -9,7 +9,7 @@
 
 # answart.github.io
 
-[![Build Status](https://travis-ci.org/Answart/answart.github.io.svg?branch=master)][travis]
+[![Build Status](https://travis-ci.org/Answart/answart.github.io.svg?branch=gh-pages)][travis]
 [![Known Vulnerabilities](https://snyk.io/test/github/Answart/answart.github.io/badge.svg)][snyk]
 [![MIT](https://img.shields.io/github/license/Answart/answart.github.io.svg)][MIT]
 
