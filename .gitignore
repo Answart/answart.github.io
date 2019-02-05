@@ -3,5 +3,4 @@
 .jekyll-metadata
 _site/**
 .sass-cache/**
-Gemfile.lock
 _samples/library/**
