@@ -1,7 +1,5 @@
 language: ruby
-rvm:
-  - '2.6'
-  - jruby
+rvm: '2.6'
 script:
   - bundle exec jekyll build
 deploy:
