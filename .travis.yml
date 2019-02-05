@@ -12,3 +12,6 @@ deploy:
   github-url: https://github.com/Answart/answart.github.io
   fqdn: https://alexandraswart.com
   repo: answart.github.io
+branches:
+  only:
+  - gh-pages
