@@ -2,13 +2,13 @@ source 'https://rubygems.org'
 
 ruby '2.6.0'
 
-gem 'jekyll'
+gem 'jekyll', '>= 3.9.0'
 gem 'jekyll-theme-prologue'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-feed', '0.11'
-  gem 'github-pages'
+  gem 'jekyll-feed', '0.11.0'
+  gem 'github-pages', '>= 214'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
